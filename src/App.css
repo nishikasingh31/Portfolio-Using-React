@@ -1,0 +1,17 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+/* Root colors */
+:root {
+  --bg: #f9fafb;
+  --primary: #4f46e5;
+  --accent: #818cf8;
+  --text: #0f172a;
+  --muted: #64748b;
+}
