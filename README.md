@@ -30,5 +30,4 @@ A modern, responsive personal portfolio website built using **React** to showcas
 - **Deployment:**  Netlify
 
 
-## 📂 Project Structure
 
