@@ -15,3 +15,10 @@ html, body {
   --text: #0f172a;
   --muted: #64748b;
 }
+
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
