@@ -5,11 +5,7 @@ const Projects = () => {
     <section className="projects" id = "projects">
       <h2><b>Projects</b></h2>
 
-      <div className="project-card">
-        <h3>⚙️ <a href="https://github.com/nishikasingh31/Online-Quiz-API">Online Quiz Application </a> </h3>
-        <p> ⤷ A backend API project for a simple quiz application. </p>
-        <p> ⤷ Tech Stack: Node.js, MongoDB</p>
-      </div>
+      
 
        <div className="project-card">
         <h3>🧠 <a href="https://github.com/nishikasingh31/Multilingual-Language-Detection-and-Translation-System">Multilingual Language Detection and Translation System</a></h3>
