@@ -1,6 +1,6 @@
 .contact {
   min-height: 100vh;
-  padding: 80px 24%;
+  padding: 80px 27%;
   font-size: 1.1rem;
   background-color: hsl(210, 20%, 98%);
   color: #64748B;
@@ -42,5 +42,6 @@
     padding: 60px 8%;
   }
 }
+
 
 
