@@ -20,7 +20,7 @@ const About = () => {
           These projects strengthened my skills in problem-solving, model implementation, and translating technical concepts into practical solutions.
         </p>
         <p className="about-text">
-          I have a strong interest in <strong>backend development using Node.js</strong> and enjoy building 
+          I have a strong interest in backend development using <strong>Node.js</strong> and enjoy building 
           full-stack applications with clean, interactive user interfaces using <strong>React.js</strong>.
         </p>
         <p className="about-text">
