@@ -19,7 +19,7 @@ const Projects = () => {
         <h3>🔢 <a href= "https://github.com/nishikasingh31/Handwritten-Digit-Classification-using-CNN">Handwritten Digit Classification using CNN</a></h3>
         <p> ⤷ A deep-learning model trained on the MNIST dataset to classify handwritten digits (0–9).</p>
         <p> ⤷ Used multiple convolutional layers, max-pooling, an additional Dropout layer to prevent overfitting, and dense layers for classification.</p>
-        <p> ⤷ Tech Stack: CNN, Python, TensorFlow</p>
+        <p> ⤷ Tech Stack: Python, TensorFlow, Keras, CNN</p>
 
       </div>
     </section>
