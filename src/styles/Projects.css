@@ -15,7 +15,7 @@
   margin-bottom: 14px;
   text-align: justify;
   animation: slideInLeft 1.5s ease forwards;
-  line-height: 1.1;
+  line-height: 1.3;
 }
 
 .project-card h3 {
@@ -46,5 +46,6 @@
   animation: slideInLeft 1.5s ease forwards;
 
 }
+
 
 
