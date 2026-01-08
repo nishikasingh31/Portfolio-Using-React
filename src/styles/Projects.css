@@ -1,6 +1,6 @@
 .projects {
   min-height: 100vh;
-  padding: 80px 25%;
+  padding: 80px 22%;
   font-size: 1.1rem;
   background-color: #F9FAFB;
   color: #64748B;
@@ -48,6 +48,7 @@
   animation: slideInLeft 1.5s ease forwards;
 
 }
+
 
 
 
