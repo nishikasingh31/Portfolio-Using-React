@@ -15,6 +15,7 @@
   margin-bottom: 0px;
   text-align: justify;
   animation: slideInLeft 1.5s ease forwards;
+  max-width: 1000px;
 }
 
 .project-card h3 {
@@ -46,6 +47,7 @@
   animation: slideInLeft 1.5s ease forwards;
 
 }
+
 
 
 
