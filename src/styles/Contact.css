@@ -1,0 +1,41 @@
+.contact {
+  min-height: 100vh;
+  padding: 80px 32%;
+  background-color: #F9FAFB;
+  color: #64748B;
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  margin-bottom: 60px;
+  animation: slideInLeft 1.5s ease forwards;
+}
+
+.contact p {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  text-align: justify;
+  animation: slideInLeft 1.5s ease forwards;
+}
+
+.contact-info p {
+  margin: 10px 0;
+}
+
+.contact a {
+  color: #6c63ff;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .contact {
+    padding: 60px 8%;
+  }
+}

@@ -1,0 +1,32 @@
+.education {
+  min-height: 100vh;
+  padding: 80px 24%;
+  font-size: 1.1rem;
+  background-color: hsl(210, 20%, 98%);
+  color: #64748B;
+  text-align: center;
+  justify-content: center;
+  line-height: 1.1;
+}
+
+.education h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  line-height: 1.1;
+  animation: slideInLeft 1.5s ease forwards;
+}  
+
+.education-card {
+  background: #F9FAFB;
+  padding: 20px;
+  text-align: left;  
+  animation: slideInLeft 1.5s ease forwards;
+}
+
+.education-item {
+  list-style: none;
+  padding: 5px;
+}
+
+
+
