@@ -1,14 +1,13 @@
 .skills {
   min-height: 100vh;
   padding: 80px 15%;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   scroll-margin-top: 130px;
   background-color: #F9FAFB;
   color: #64748B;
   text-align: center;
   justify-content: center;
   line-height: 1.1;
-  
 }
 
 .skills-card {
