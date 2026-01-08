@@ -8,7 +8,7 @@ const Projects = () => {
       <div className="project-card">
         <h3>⚙️ <a href="https://github.com/nishikasingh31/Online-Quiz-API">Online Quiz Application </a> </h3>
         <p> ⤷ A backend API project for a simple quiz application. </p>
-        <p> ⤷ Tech Stack: Node.js, MongoDB, REST API</p>
+        <p> ⤷ Tech Stack: Node.js, MongoDB</p>
       </div>
 
        <div className="project-card">
