@@ -13,7 +13,6 @@
   background: #F9FAFB;
   padding: 20px;
   margin: 20px auto;      
-  max-width: 900px;
   text-align: left;  
   animation: slideInLeft 1.5s ease forwards;
 
@@ -29,3 +28,4 @@
   animation: slideInLeft 1.5s ease forwards;
 
 }
+
